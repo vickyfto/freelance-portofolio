@@ -15,9 +15,32 @@
   /* border: 1px solid black; */
 }
 
-.font-size-19px {
-  font-size: 22px;
+body {
+  height: 150vh;
 }
+
+/* global custome start */
+.FT19 {
+  font-size: 1.2em;
+}
+
+.bg-dark {
+  background-color: #202040;
+}
+
+.btn-bg {
+  letter-spacing: -1px;
+  margin-left: 10px;
+  /* background-color: #4b5d67; */
+  /* color: white !important; */
+  border-radius: 10px;
+  color: red;
+  /* margin-left: 70%; */
+}
+.btn-bg:hover {
+  text-decoration: none;
+}
+/* global custome end */
 
 /* nav start  */
 .navbar-nav a {
