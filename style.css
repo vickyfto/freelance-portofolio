@@ -17,6 +17,7 @@
 
 body {
   height: 150vh;
+  background-color: #f4f3f3;
 }
 
 /* global custome start */
@@ -30,11 +31,12 @@ body {
 
 .btn-bg {
   letter-spacing: -1px;
-  margin-left: 10px;
-  /* background-color: #4b5d67; */
+  margin-right: 10px;
+  background-color: #4b5d67;
   /* color: white !important; */
-  border-radius: 10px;
-  color: red;
+  border-radius: 5px;
+  padding: 0 3px;
+  color: #ffff;
   /* margin-left: 70%; */
 }
 .btn-bg:hover {
