@@ -63,12 +63,17 @@ body {
   margin: 0 10px;
   /* background-color: grey; */
 }
+
+.navbar-nav a:hover {
+  text-decoration: none;
+  /* background-color: grey; */
+}
 /* nav end  */
 
 /* footer start */
 footer {
-  color: #ffff;
-  background-color: #343a40;
+  color: #010101;
+  background-color: #68b0ab;
   margin-top: 5em;
 }
 /* footer end */
