@@ -17,17 +17,17 @@
 
 body {
   height: 150vh;
-  background-color: #f4f3f3;
+  background-color: #dfdfdf;
 }
 
 /* global custome start */
 .FT19 {
   font-size: 1.2em;
 }
-
-.bg-dark {
-  background-color: #202040;
-}
+/* 
+.bg-dark-event {
+  background-color: #182952;
+} */
 
 .btn-bg {
   letter-spacing: -1px;
@@ -41,12 +41,14 @@ body {
 }
 .btn-bg:hover {
   text-decoration: none;
+  color: #010101be;
 }
 /* global custome end */
 
 /* nav start  */
 .navbar-nav a {
-  color: black !important;
+  color: #010101 !important;
+  margin: 0 10px;
   /* background-color: grey; */
 }
 /* nav end  */
