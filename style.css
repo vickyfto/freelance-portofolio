@@ -31,6 +31,11 @@ body {
 .black-text {
   color: #010101;
 }
+
+/* .trans:active,
+.trans::after {
+  transition: 1s;
+} */
 /* 
 .bg-dark-event {
   background-color: #182952;
@@ -54,7 +59,7 @@ body {
 
 /* nav start  */
 .navbar-nav a {
-  color: #010101 !important;
+  color: #010101;
   margin: 0 10px;
   /* background-color: grey; */
 }
@@ -62,8 +67,8 @@ body {
 
 /* footer start */
 footer {
-  color: #010101;
-  background-color: #f4f9f4;
+  color: #ffff;
+  background-color: #343a40;
   margin-top: 5em;
 }
 /* footer end */
