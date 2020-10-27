@@ -2,6 +2,10 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Grandstander&display=swap"); */
 @import url("https://fonts.googleapis.com/css2?family=Turret+Road:wght@700&family=Work+Sans:wght@500&display=swap");
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -73,7 +77,7 @@ body {
 /* footer start */
 footer {
   color: #010101;
-  background-color: #68b0ab;
+  background-color: #78b8b3cc;
   margin-top: 5em;
 }
 /* footer end */
