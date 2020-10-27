@@ -81,3 +81,9 @@ footer {
   margin-top: 5em;
 }
 /* footer end */
+
+/* sosmed icon start  */
+.sosmed-icon a:hover {
+  text-decoration: none;
+}
+/* sosmed icon end  */
