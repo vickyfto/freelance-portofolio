@@ -3,7 +3,7 @@ function darkMode() {
     document.body.style.transition = '0.8s';
 
     if( document.body.classList.contains('bg-dark') == true) {
-        document.querySelector('.btn-bg').innerHTML = "<span style='letter-spacing: -1px;'>☀️</span> white mode";
+        document.querySelector('.btn-bg').innerHTML = "<span style='letter-spacing: -1px;'>☼</span> white mode";
         const colorText = document.querySelectorAll('div,h2,a');
         for(let i = 0; i < colorText.length; i++)
             colorText[i].style.color = 'white';
