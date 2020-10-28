@@ -45,14 +45,19 @@ body {
   background-color: #182952;
 } */
 
+.txt-underline {
+  text-decoration: underline;
+}
+
 .btn-bg {
   letter-spacing: -1px;
-  margin-right: 10px;
+  /* margin-right: 10px; */
   background-color: #4b5d67;
   /* color: white !important; */
-  border-radius: 5px;
-  padding: 0 3px;
-  color: #ffff;
+  border-radius: 10px;
+  /* line-height: 30px; */
+  padding: 0 7px;
+  color: #010101;
   /* margin-left: 70%; */
 }
 .btn-bg:hover {
